@@ -1,2 +1,2 @@
-# GRIP-June-21-Tasks
+# project
 This consists of all the codes assigned during the course of period 
